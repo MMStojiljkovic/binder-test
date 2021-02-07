@@ -13,4 +13,4 @@ Other apps:
 
 App mode:
 
-[![Binder](https://hub.gke2.mybinder.org/user/mmstojiljkovic-binder-test-an7fjgwq/apps/notebooks/test-ipywidgets/test-ipywidgets.ipynb?appmode_scroll=0)
+[![Binder](https://hub.gke2.mybinder.org/user/mmstojiljkovic-binder-test-an7fjgwq/apps/notebooks/test-ipywidgets/test-ipywidgets.ipynb?appmode_scroll=0)]
