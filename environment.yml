@@ -4,6 +4,7 @@ channels:
 dependencies:
   - python
   - pip
+  - ipywidgets
   - numpy
   - pandas
   - appmode
